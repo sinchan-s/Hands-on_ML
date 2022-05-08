@@ -1,2 +1,5 @@
 # Hands-on_ML  
-with Scikit learn, based on [this](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-Tensor/dp/9352139054/ref=sr_1_1?keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1651843809&sprefix=hands%2Caps%2C317&sr=8-1) book.
+Practicing Machine Learning concepts with Scikit learn, from [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/).  
+1. Covered Chapter-1 [(partial code only)](https://github.com/SinXfactor/Hands-on_ML/blob/master/CH-1_Housing.ipynb)
+2. Covered Chapter-2 [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/CH-2_MNIST.ipynb)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
