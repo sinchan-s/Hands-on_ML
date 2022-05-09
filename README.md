@@ -3,5 +3,5 @@ Practicing Machine Learning concepts with Scikit learn, from [Hands-on Machine L
   
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-1. Covered Chapter-Housing [(partial code only)](https://github.com/SinXfactor/Hands-on_ML/blob/master/CH-Housing.ipynb)  
-2. Covered Chapter-MNIST [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/CH-MNIST.ipynb)
+1. Covered Chapter-Housing [(partial code only)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Housing.ipynb)  
+2. Covered Chapter-MNIST [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-MNIST.ipynb)
