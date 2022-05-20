@@ -6,4 +6,4 @@ Practicing Machine Learning concepts with Scikit learn, from [Hands-on Machine L
 1. Covered Chapter-Housing [(partial code only)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Housing.ipynb)  
 2. Covered Chapter-MNIST [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-MNIST.ipynb)
 3. Covered Chapter-Training Models [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Models.ipynb)
-4. Ongoing Chapter-SVM [(code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-SVM.ipynb)
+4. Covered Chapter-SVM [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-SVM.ipynb)
