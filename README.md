@@ -8,4 +8,4 @@ Practicing Machine Learning concepts with Scikit learn, from [Hands-on Machine L
 3. Covered Chapter-Training Models [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Models.ipynb)
 4. Covered Chapter-SVM [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-SVM.ipynb)
 5. Covered Chapter-Decision Trees [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Decision_trees.ipynb)
-6. Ongoing Chapter-Ensemble_&_RF [(code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Ensemble_&_RF.ipynb)
+6. Covered Chapter-Ensemble_&_RF [(full code with annotations)](https://github.com/SinXfactor/Hands-on_ML/blob/master/Ch-Ensemble_&_RF.ipynb)
